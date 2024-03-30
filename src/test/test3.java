@@ -17,5 +17,15 @@ public class test3 {
 		System.out.println("Comeone");
 		
 	}
+	@Test
+	public void Demo8() {
+		System.out.println("Comeone");
+		
+	}
+	@Test
+	public void Demo9() {
+		System.out.println("Comeone");
+		
+	}
 
 }
