@@ -7,6 +7,7 @@ public class test3 {
 	@Test
 	public void Demo6() {
 		System.out.println("ssssss");
+		System.out.println("xxxxx");
 		
 	}
 	
