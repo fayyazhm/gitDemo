@@ -17,6 +17,7 @@ public class test2 {
 		System.out.println("please");
 		System.out.println(uname);
 		System.out.println(pass);
+		System.out.println("eclipse");
 	}
 	
 	@DataProvider
