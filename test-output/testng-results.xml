@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T09:54:37 IST" name="Suite" finished-at="2024-03-29T09:54:37 IST" duration-ms="178">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T09:54:37 IST" name="Personal_loan" finished-at="2024-03-29T09:54:37 IST" duration-ms="100">
+      <class name="test.test1">
+        <test-method signature="Demo2()[pri:0, instance:test.test1@e4487af]" started-at="2024-03-29T09:54:37 IST" name="Demo2" finished-at="2024-03-29T09:54:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- test.test1 -->
+      <class name="test.test">
+        <test-method signature="Demo()[pri:0, instance:test.test@192c3f1e]" started-at="2024-03-29T09:54:37 IST" name="Demo" finished-at="2024-03-29T09:54:37 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="Demo1()[pri:0, instance:test.test@192c3f1e]" started-at="2024-03-29T09:54:37 IST" name="Demo1" finished-at="2024-03-29T09:54:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+      </class> <!-- test.test -->
+    </test> <!-- Personal_loan -->
+    <test started-at="2024-03-29T09:54:37 IST" name="car_loan" finished-at="2024-03-29T09:54:37 IST" duration-ms="26">
+      <class name="test.test2">
+        <test-method signature="Demo3()[pri:0, instance:test.test2@61d6015a]" started-at="2024-03-29T09:54:37 IST" name="Demo3" finished-at="2024-03-29T09:54:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+      </class> <!-- test.test2 -->
+      <class name="test.test3">
+        <test-method signature="Demo6()[pri:0, instance:test.test3@2525ff7e]" started-at="2024-03-29T09:54:37 IST" name="Demo6" finished-at="2024-03-29T09:54:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo6 -->
+        <test-method signature="Demo7()[pri:0, instance:test.test3@2525ff7e]" started-at="2024-03-29T09:54:37 IST" name="Demo7" finished-at="2024-03-29T09:54:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo7 -->
+      </class> <!-- test.test3 -->
+    </test> <!-- car_loan -->
+  </suite> <!-- Suite -->
+</testng-results>

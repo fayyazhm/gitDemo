@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="test.Listners"/>	
+	</listeners>
+  <test thread-count="5" name="Personal_loan">
+    <classes>
+      <class name="test.test"/>
+      <class name="test.test1"/>
+    </classes>
+  </test> <!-- Test -->
+    <test thread-count="5" name="car_loan">
+    <classes>
+      <class name="test.test2">
+		<methods>
+			<exclude name="Demo4"></exclude>  
+	  	</methods>
+	  </class>		
+      <class name="test.test3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
